@@ -1,0 +1,15 @@
+{
+    "name": "usuario/expenses-app",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\ExpensesApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo De la cruz",
+            "email": "leonardodelacruz03@hotmail.com"
+        }
+    ],
+    "require": {}
+}
