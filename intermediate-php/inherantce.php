@@ -77,3 +77,9 @@ class Coder extends Person
         $this -> good_maths = $good_maths;
     }
 }
+
+
+/* 
+    para acceder al construct de la clase padre se usa
+    parent::__construct();
+*/
